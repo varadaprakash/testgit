@@ -1,0 +1,32 @@
+{
+  "OLB" : {
+    "IT1": {
+        "OLB Web" : ["VMIKSA699B1T4J"],
+        "OLB TP" : ["VMIKSA699B1T4J", "VMIKSA699B1T4J"],
+        "RM" : ["VMIKSA699B1T4J"],
+        "Batch" : [],
+        "Banker Web" : []
+    },
+    "IT2": {
+        "OLB Web" : ["VMIKSA699B1T4J"],
+        "OLB TP" : ["VMIKSA699B1T4J", "VMIKSA699B1T4J"],
+        "RM" : ["VMIKSA699B1T4J"],
+        "Batch" : [],
+        "Banker Web" : []
+    }
+  },
+  "KYC" : {
+    "KYC IT1": {
+        "KYC Web" : ["VMIKSA699B1T4J"],
+        "KYC TP" : ["VMIKSA699B1T4J", "VMIKSA699B1T4J"],
+        "RM" : ["VMIKSA699B1T4J"],
+        "Batch" : []
+    },
+    "KYC IT2": {
+        "KYC Web" : ["VMIKSA699B1T4J"],
+        "KYC TP" : ["VMIKSA699B1T4J", "VMIKSA699B1T4J"],
+        "RM" : ["VMIKSA699B1T4J"],
+        "Batch" : []
+    }
+  }  
+}
